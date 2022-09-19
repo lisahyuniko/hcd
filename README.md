@@ -8,7 +8,7 @@
 The license of my data is the MIT license and the source data has a public domain license.
 
 
-# **DATA AND ANALYSIS**
+# data and analysis
 
 *Original dataset*
 
